@@ -1,7 +1,7 @@
-# java25snippets
-snippets for learning java 25
 
---
+# snippets for learning java 
+
+---
 
 Constants, Variables and Data Types
 
@@ -33,3 +33,5 @@ Exception handling
 ----
 
 Multithreaded programming
+
+----
